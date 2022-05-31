@@ -1,0 +1,37 @@
+1. ¿Cual es la diferencia entre undefined y null?
+
+
+
+
+2. ¿Qué es el DOM?
+
+DOM es un parser que toma el codigo html y lo convierte en la pagina estructurada que nosotros podemos ver.
+Document Object Model
+
+
+
+
+JavascriptEngine: es el que corre los scripts de Javascript compila e interpreta
+
+3. Usando Javascript se puede acceder a diferentes elementos del DOM. ¿Qué
+hacen, que retorna y para qué funcionan las funciones getElement y
+querySelector? Cree un ejemplo
+
+
+4. Investigue cómo se pueden crear nuevos elementos en el DOM usando
+Javascript. De un ejemplo
+
+
+
+
+
+5. ¿Qué es un promise en Javascript?De un ejemplo
+
+6. ¿Qué es Fetch en Javascript? De un ejemplo
+
+7. ¿Qué es Asynch/Await en Javascript ? De un ejemplo
+
+
+
+
+
